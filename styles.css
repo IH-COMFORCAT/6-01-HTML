@@ -1,0 +1,31 @@
+header {
+    background-color: yellow;
+}
+
+#logo img {
+    height: 100px;
+}
+
+h6 {
+    font-size: 20px;
+}
+
+.article-container {
+    margin: 0;
+    padding: .3rem;
+    background-color: #eee;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+.my-article {
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.2rem;
+    background-color: #fff;
+
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
